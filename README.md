@@ -31,6 +31,4 @@ An end-to-end sales analytics project using **SQL, Python, and Power BI** to ana
 
 Building practical analytics projects and developing stronger skills in SQL, Python, Power BI, and business analytics.
 
-## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
