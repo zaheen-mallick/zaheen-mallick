@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Zaheen Mallick 👋
 
-<!--
-**zaheen-mallick/zaheen-mallick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | SQL | Python | Power BI
 
-Here are some ideas to get you started:
+I am building data analytics projects that transform raw business data into actionable insights and decision-ready dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **SQL:** MySQL, data validation, joins, aggregations, business analysis
+- **Python:** Pandas, data analysis, visualization
+- **Power BI:** Dashboard development, KPIs, interactive reporting
+- **Tools:** GitHub, Excel
+
+## 📊 Featured Project
+
+### NovaCart Sales Analysis
+
+An end-to-end sales analytics project using **SQL, Python, and Power BI** to analyze:
+
+- Sales and profitability
+- Product and category performance
+- Customer and customer-segment performance
+- Geographic performance
+- Discount impact on profitability
+- Order quantity and average order value
+- Revenue concentration
+
+**Key technologies:** MySQL · SQL · Python · Pandas · Power BI
+
+## 🎯 Current Focus
+
+Building practical analytics projects and developing stronger skills in SQL, Python, Power BI, and business analytics.
+
+## 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL)
